@@ -1,2 +1,2 @@
-# Commandes-Utiles-Et-Autre
-Wiki qui répertorie des commandes et astuces utiles en informatique général.
+# Commandes Utiles Et Autre
+Un Wiki brouillon qui contient des commandes, des astuces et des notes utiles.
